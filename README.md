@@ -86,8 +86,55 @@
       </a>
       <br>Figma
     </td>
+       <td align="center" width="96">
+     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+     </a> 
+      <br>C++
+    </td>
+        <td align="center" width="96">
+     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+     </a>
+      <br>Photoshop
+    </td>
+        <td align="center" width="96">
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    </a> 
+      <br>Redux
+    </td>
+      <td align="center" width="96">
+     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+     </a> 
+      <br>WebPack
+    </td>
   </tr>
 </table>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+- 💻 Strong proficiency in **JavaScript** and the JavaScript object model.
+- 🚀 In-depth understanding of **React.js** and its core principles.
+- 🔄 Experience with popular React.js workflows (**Redux**).
+- ⚛️ Experience with **React Hooks** and building custom react-hooks.
+- 🆕 Familiarity with newer specifications of **ECMAScript**.
+- 🌐 Knowledge of server-side rendering.
+- 🌍 Familiarity with **RESTful APIs**.
+- 🛠️ Good understanding of common front-end development tools such as **Babel, Parcel, Webpack, NPM, yarn**, etc.
+- 📈 Ability to understand business requirements and translate them into technical requirements.
+- 🔧 Familiarity with common tools such as **Git, Bitbucket**.
+- 🧪 Experience in **unit testing** and **integration testing**.
+
+<br>
+<br>
+
+-----
+
+<br>
+
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
@@ -112,5 +159,3 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalpawar4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihalpawar4&theme=github-compact" width="100%" alt="github activity graph"/>
-</p>
