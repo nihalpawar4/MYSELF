@@ -16,7 +16,7 @@
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nihalpawar44/), [Instagram](https://www.instagram.com/webdev_codehub/) , [E-Mial](pawarnihal44@gmail.com) </br>
 -   Portfolio at [https://nihalsportfolio.netlify.app/](https://nihalsportfolio.netlify.app/)
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: Technophile, Astrophile
+-   ⚡ Fun fact: Technophile, Astrophile and ISRO Dreams
 
 <table align="center">
  <h2>Connect with Me!</h2>
